@@ -10,4 +10,4 @@ Furkan KARCIOĞLU arkadaşıma katkılarından dolayı teşekkür ederim.
 
 3- dpkg -i [paket.deb] komutu ile deb paketini kurun.
 
-4- apt-get install -f kamutu ile bağımlılık hatalarını giderin.
+4- apt-get install -f komutu ile bağımlılık hatalarını giderin.

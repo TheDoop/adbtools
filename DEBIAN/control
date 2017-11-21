@@ -2,9 +2,8 @@ Package: adbtools
 Priority: optional
 Section: android-tools
 Installed-Size: 780
-Maintainer: Ali Rıza KESKİN <aliriza.keskin@pardustopluluk.org>
+Maintainer: İbrahim Yöndemli
 Architecture: all
-Version: 1.0
-Depends: android-tools-adb, adb-tools-fastboot, openvpn
-Description: android tools
- Katkılarından dolayı Furkan KARCIOGLU (SuperDroid) tesekkur ederim.
+Version: 2.0
+Depends: adb, fastboot, openvpn
+Description: android tools android minimal ADB And fastboot drivers

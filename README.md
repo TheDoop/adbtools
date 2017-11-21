@@ -17,4 +17,4 @@ Furkan KARCIOĞLU arkadaşıma katkılarından dolayı teşekkür ederim.
 
 2- dpkg -i adbtools.deb
 
-# Telegram: TheDoop 
+# Telegram: https://t.me/F_Doop 

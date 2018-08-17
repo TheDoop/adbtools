@@ -17,4 +17,4 @@ Furkan KARCIOĞLU arkadaşıma katkılarından dolayı teşekkür ederim.
 
 2- dpkg -i adbtools.deb
 
-# Telegram: https://t.me/@droidtr
+# Telegram: https://t.me/droidtr

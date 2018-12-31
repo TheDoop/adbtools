@@ -2,7 +2,7 @@ Package: adbtools
 Priority: optional
 Section: android-tools
 Installed-Size: 780
-Maintainer: İbrahim Yöndemli
+Maintainer: İbrahim Yöndemli,Furkan Karcıoğlu
 Architecture: all
 Version: 2.0
 Depends: adb, fastboot, openvpn
